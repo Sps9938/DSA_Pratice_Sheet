@@ -13,6 +13,9 @@
 | Next Permutation | <a href="https://leetcode.com/problems/next-permutation/">View Question</a> | <a href="Array/Next_Permutation.cpp">View Solution</a> |
 | Array Leaders | <a href="https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1">View Question</a> | <a href="Array/Array_Leaders.cpp">View Solution</a> |
 | Longest Consecutive Sequence | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">View Question</a> | <a href="Array/Longest_Consecutive_Sequence.cpp">View Solution</a> |
+| Set Matrix Zeroes | <a href="https://leetcode.com/problems/set-matrix-zeroes/">View Question</a> | <a href="Array/Set_Matrix_Zeroes.cpp">View Solution</a> |
+
+
 ## Overview
 
 This repository contains practice Questions for common Data Structures and Algorithms problems. The current collection focuses on array fundamentals, including searching, sorting, subarrays, permutations, majority voting, stock-profit calculation, and in-place array manipulation.

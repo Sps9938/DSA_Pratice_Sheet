@@ -14,7 +14,7 @@
 | Array Leaders | <a href="https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1">View Question</a> | <a href="Array/Array_Leaders.cpp">View Solution</a> |
 | Longest Consecutive Sequence | <a href="https://leetcode.com/problems/longest-consecutive-sequence/">View Question</a> | <a href="Array/Longest_Consecutive_Sequence.cpp">View Solution</a> |
 | Set Matrix Zeroes | <a href="https://leetcode.com/problems/set-matrix-zeroes/">View Question</a> | <a href="Array/Set_Matrix_Zeroes.cpp">View Solution</a> |
-
+| Rotate_Image | <a href="https://leetcode.com/problems/rotate-image/">View Question</a> | <a href="Array/Rotate_Image.cpp">View Solution</a> |
 
 ## Overview
 

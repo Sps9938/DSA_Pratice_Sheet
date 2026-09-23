@@ -1,5 +1,13 @@
 # DSA Practice
 
+
+## Sorting
+
+| Question | View Question | View Solution |
+|---|---|---|
+| Selection Sort | <a href="https://www.geeksforgeeks.org/problems/selection-sort/1">View Question</a> | <a href="Sorting/Selection_Sort.cpp">View Solution</a> |
+
+
 ## Array
 
 | Question | View Question | View Solution |
@@ -17,7 +25,6 @@
 | Rotate_Image | <a href="https://leetcode.com/problems/rotate-image/">View Question</a> | <a href="Array/Rotate_Image.cpp">View Solution</a> |
 | Spiral Matrix | <a href="https://leetcode.com/problems/spiral-matrix/">View Question</a> | <a href="Array/Spiral_Matrix.cpp">View Solution</a> |
 | Subarray Sum Equals K | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">View Question</a> | <a href="Array/Subarray_Sum_Equals_K.cpp">View Solution</a> |
-
 
 
 

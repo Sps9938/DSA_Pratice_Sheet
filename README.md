@@ -8,6 +8,9 @@
 | Selection Sort | <a href="https://www.geeksforgeeks.org/problems/selection-sort/1">View Question</a> | <a href="Sorting/Selection_Sort.cpp">View Solution</a> |
 | Bubble Sort | <a href="https://www.geeksforgeeks.org/problems/bubble-sort/1">View Question</a> | <a href="Sorting/Bubble_Sort.cpp">View Solution</a> |
 | Insertion Sort | <a href="https://www.geeksforgeeks.org/problems/insertion-sort/0">View Question</a> | <a href="Sorting/Insertion_Sort.cpp">View Solution</a> |
+| Merge Sort | <a href="https://www.geeksforgeeks.org/problems/merge-sort/1">View Question</a> | <a href="Sorting/Merge_Sort.cpp">View Solution</a> |
+
+
 ## Array
 
 | Question | View Question | View Solution |

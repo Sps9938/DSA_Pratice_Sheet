@@ -29,6 +29,7 @@
 | Spiral Matrix | <a href="https://leetcode.com/problems/spiral-matrix/">View Question</a> | <a href="Array/Spiral_Matrix.cpp">View Solution</a> |
 | Subarray Sum Equals K | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">View Question</a> | <a href="Array/Subarray_Sum_Equals_K.cpp">View Solution</a> |
 | Pascal's Triangle | <a href="https://leetcode.com/problems/pascals-triangle/">View Question</a> | <a href="Array/Pascal's_Triangle.cpp">View Solution</a> |
+| Majority Element II | <a href="https://leetcode.com/problems/majority-element-ii/">View Question</a> | <a href="Array/Majority_Element_II.cpp">View Solution</a> |
 
 
 

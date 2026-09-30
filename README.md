@@ -30,6 +30,7 @@
 | Subarray Sum Equals K | <a href="https://leetcode.com/problems/subarray-sum-equals-k/">View Question</a> | <a href="Array/Subarray_Sum_Equals_K.cpp">View Solution</a> |
 | Pascal's Triangle | <a href="https://leetcode.com/problems/pascals-triangle/">View Question</a> | <a href="Array/Pascal's_Triangle.cpp">View Solution</a> |
 | Majority Element II | <a href="https://leetcode.com/problems/majority-element-ii/">View Question</a> | <a href="Array/Majority_Element_II.cpp">View Solution</a> |
+| 3Sum | <a href="https://leetcode.com/problems/3sum/">View Question</a> | <a href="Array/Hard/3Sum.cpp">View Solution</a> |
 
 
 

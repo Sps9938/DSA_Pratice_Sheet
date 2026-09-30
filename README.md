@@ -31,6 +31,7 @@
 | Pascal's Triangle | <a href="https://leetcode.com/problems/pascals-triangle/">View Question</a> | <a href="Array/Pascal's_Triangle.cpp">View Solution</a> |
 | Majority Element II | <a href="https://leetcode.com/problems/majority-element-ii/">View Question</a> | <a href="Array/Majority_Element_II.cpp">View Solution</a> |
 | 3Sum | <a href="https://leetcode.com/problems/3sum/">View Question</a> | <a href="Array/Hard/3Sum.cpp">View Solution</a> |
+| 4Sum | <a href="https://leetcode.com/problems/4sum/">View Question</a> | <a href="Array/Hard/4Sum.cpp">View Solution</a> |
 
 
 

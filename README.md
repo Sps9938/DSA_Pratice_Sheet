@@ -34,6 +34,7 @@
 | 4Sum | <a href="https://leetcode.com/problems/4sum/">View Question</a> | <a href="Array/Hard/4Sum.cpp">View Solution</a> |
 | Largest Subarray with 0 Sum | <a href="https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1">View Question</a> | <a href="Array/Hard/Largest_Subarray_with_0_Sum.cpp">View Solution</a> |
 | Count Subarrays with given XOR | <a href="https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1">View Question</a> | <a href="Array/Hard/Count_Subarrays_with_given_XOR.cpp">View Solution</a> |
+| Merge Intervals | <a href="https://leetcode.com/problems/merge-intervals/https://leetcode.com/problems/merge-intervals/">View Question</a> | <a href="Array/Hard/Merge_Intervals.cpp">View Solution</a> |
 
 
 

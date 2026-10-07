@@ -36,6 +36,7 @@
 | Count Subarrays with given XOR | <a href="https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1">View Question</a> | <a href="Array/Hard/Count_Subarrays_with_given_XOR.cpp">View Solution</a> |
 | Merge Intervals | <a href="https://leetcode.com/problems/merge-intervals/">View Question</a> | <a href="Array/Hard/Merge_Intervals.cpp">View Solution</a> |
 | Merge Sorted Array | <a href="https://leetcode.com/problems/merge-sorted-array/">View Question</a> | <a href="Array/Hard/Merge_Sorted_Array.cpp">View Solution</a> |
+| Missing And Repeating | <a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">View Question</a> | <a href="Array/Hard/Missing_And_Repeating.cpp">View Solution</a> |
 
 
 

@@ -38,6 +38,7 @@
 | Merge Sorted Array | <a href="https://leetcode.com/problems/merge-sorted-array/">View Question</a> | <a href="Array/Hard/Merge_Sorted_Array.cpp">View Solution</a> |
 | Missing And Repeating | <a href="https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1">View Question</a> | <a href="Array/Hard/Missing_And_Repeating.cpp">View Solution</a> |
 | Find Missing and Repeated Values | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/">View Question</a> | <a href="Array/Hard/Find_Missing_and_Repeated_Values.cpp">View Solution</a> |
+| Count Inversions | <a href="https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1">View Question</a> | <a href="Array/Hard/Count_Inversions.cpp">View Solution</a> |
 
 
 

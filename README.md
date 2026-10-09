@@ -40,6 +40,7 @@
 | Find Missing and Repeated Values | <a href="https://leetcode.com/problems/find-missing-and-repeated-values/">View Question</a> | <a href="Array/Hard/Find_Missing_and_Repeated_Values.cpp">View Solution</a> |
 | Count Inversions | <a href="https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1">View Question</a> | <a href="Array/Hard/Count_Inversions.cpp">View Solution</a> |
 | Reverse Pairs | <a href="https://leetcode.com/problems/reverse-pairs">View Question</a> | <a href="Array/Hard/Reverse_Pairs.cpp">View Solution</a> |
+| Maximum Product Subarray | <a href="https://leetcode.com/problems/maximum-product-subarray/">View Question</a> | <a href="Array/Hard/Maximum_Product_Subarray.cpp">View Solution</a> |
 
 
 

@@ -43,10 +43,11 @@
 | Maximum Product Subarray | <a href="https://leetcode.com/problems/maximum-product-subarray/">View Question</a> | <a href="Array/Hard/Maximum_Product_Subarray.cpp">View Solution</a> |
 
 
+## Binary Search
+
+| Question | View Question | View Solution |
+|---|---|---|
+| Floor in Sorted Array | <a href="https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_in _Sorted_Array.cpp">View Solution</a> |
 
 
-## Overview
 
-This repository contains practice Questions for common Data Structures and Algorithms problems. The current collection focuses on array fundamentals, including searching, sorting, subarrays, permutations, majority voting, stock-profit calculation, and in-place array manipulation.
-
-Questions are written in C++ and organized by topic so they are easy to review and extend as more DSA practice problems are added.

@@ -47,8 +47,9 @@
 
 | Question | View Question | View Solution |
 |---|---|---|
-| Floor in Sorted Array | <a href="https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_in _Sorted_Array.cpp">View Solution</a> |
-| Floor and Ceil in Unsorted | <a href="https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_in _Sorted_Array.cpp">View Solution</a> |
+| Floor in Sorted Array | <a href="https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_in_Sorted_Array.cpp">View Solution</a> |
+| Floor and Ceil in Unsorted | <a href="https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_and_Ceil_in_Unsorted.cpp">View Solution</a> |
+| Binary Search | <a href="https://leetcode.com/problems/binary-search/">View Question</a> | <a href="Binary Search/BS_1D/Binary_Search.cpp">View Solution</a> |
 
 
 

@@ -51,6 +51,7 @@
 | Floor and Ceil in Unsorted | <a href="https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1">View Question</a> | <a href="Binary Search/BS_1D/Floor_and_Ceil_in_Unsorted.cpp">View Solution</a> |
 | Binary Search | <a href="https://leetcode.com/problems/binary-search/">View Question</a> | <a href="Binary Search/BS_1D/Binary_Search.cpp">View Solution</a> |
 | Search Insert Position | <a href="https://leetcode.com/problems/search-insert-position/">View Question</a> | <a href="Binary Search/BS_1D/Search_Insert_Position.cpp">View Solution</a> |
+| Find First and Last Position of Element in Sorted Array | <a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp">View Solution</a> |
 
 
 

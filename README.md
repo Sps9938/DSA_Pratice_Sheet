@@ -57,6 +57,8 @@
 | Search in Rotated Sorted Array II | <a href="https://leetcode.com/problems/search-in-rotated-sorted-array-ii/">View Question</a> | <a href="Binary Search/BS_1D/Search_in_Rotated_Sorted_Array_II.cpp">View Solution</a> |
 | Find Minimum in Rotated Sorted Array | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Find_Minimum_in_Rotated_Sorted_Array.cpp">View Solution</a> |
 | Find Rotation Count | <a href="https://www.geeksforgeeks.org/problems/rotation4723/1">View Question</a> | <a href="Binary Search/BS_1D/Find_Rotation_Count.cpp">View Solution</a> |
+| Find Minimum in Rotated Sorted Array | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Find_Minimum_in_Rotated_Sorted_Array.cpp">View Solution</a> |
+| Single Element in a Sorted Array | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Single_Element_in_a_Sorted_Array.cpp">View Solution</a> |
 
 
 

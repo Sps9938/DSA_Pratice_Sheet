@@ -60,6 +60,7 @@
 | Find Minimum in Rotated Sorted Array | <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Find_Minimum_in_Rotated_Sorted_Array.cpp">View Solution</a> |
 | Single Element in a Sorted Array | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Single_Element_in_a_Sorted_Array.cpp">View Solution</a> |
 | Find Peak Element | <a href="https://leetcode.com/problems/find-peak-element/">View Question</a> | <a href="Binary Search/BS_1D/Find_Peak_Element.cpp">View Solution</a> |
+| Square Root | <a href="https://www.geeksforgeeks.org/problems/square-root/1">View Question</a> | <a href="Binary Search/BS_1D/Square_Root.cpp">View Solution</a> |
 
 
 

@@ -61,6 +61,7 @@
 | Single Element in a Sorted Array | <a href="https://leetcode.com/problems/single-element-in-a-sorted-array/">View Question</a> | <a href="Binary Search/BS_1D/Single_Element_in_a_Sorted_Array.cpp">View Solution</a> |
 | Find Peak Element | <a href="https://leetcode.com/problems/find-peak-element/">View Question</a> | <a href="Binary Search/BS_1D/Find_Peak_Element.cpp">View Solution</a> |
 | Square Root | <a href="https://www.geeksforgeeks.org/problems/square-root/1">View Question</a> | <a href="Binary Search/Medium_Hard/Square_Root.cpp">View Solution</a> |
+| Nth Root of M | <a href="https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1">View Question</a> | <a href="Binary Search/Medium_Hard/Nth_Root_of_M.cpp">View Solution</a> |
 
 
 

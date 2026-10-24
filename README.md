@@ -64,6 +64,7 @@
 | Nth Root of M | <a href="https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1">View Question</a> | <a href="Binary Search/Medium_Hard/Nth_Root_of_M.cpp">View Solution</a> |
 | Koko Eating Bananas | <a href="https://leetcode.com/problems/koko-eating-bananas/description/">View Question</a> | <a href="Binary Search/Medium_Hard/Koko_Eating_Bananas.cpp">View Solution</a> |
 | Minimum Number of Days to Make m Bouquets | <a href="https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/">View Question</a> | <a href="Binary Search/Medium_Hard/Minimum_Number_of_Days_to_Make_m_Bouquets.cpp">View Solution</a> |
+| Find the Smallest Divisor Given a Threshold | <a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/">View Question</a> | <a href="Binary Search/Medium_Hard/Find_the_Smallest_Divisor_Given_a_Threshold.cpp">View Solution</a> |
 
 
 

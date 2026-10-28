@@ -67,6 +67,7 @@
 | Find the Smallest Divisor Given a Threshold | <a href="https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/">View Question</a> | <a href="Binary Search/Medium_Hard/Find_the_Smallest_Divisor_Given_a_Threshold.cpp">View Solution</a> |
 | Capacity To Ship Packages Within D Days | <a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">View Question</a> | <a href="Binary Search/Medium_Hard/Capacity_To_Ship_Packages_Within_D_Days.cpp">View Solution</a> |
 | Kth Missing Positive Number | <a href="https://leetcode.com/problems/kth-missing-positive-number/">View Question</a> | <a href="Binary Search/Medium_Hard/Kth_Missing_Positive_Number.cpp">View Solution</a> |
+| Aggressive Cows | <a href="https://www.geeksforgeeks.org/problems/aggressive-cows/1">View Question</a> | <a href="Binary Search/Medium_Hard/Aggressive_Cows.cpp">View Solution</a> |
 
 
 

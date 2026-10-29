@@ -68,6 +68,7 @@
 | Capacity To Ship Packages Within D Days | <a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/">View Question</a> | <a href="Binary Search/Medium_Hard/Capacity_To_Ship_Packages_Within_D_Days.cpp">View Solution</a> |
 | Kth Missing Positive Number | <a href="https://leetcode.com/problems/kth-missing-positive-number/">View Question</a> | <a href="Binary Search/Medium_Hard/Kth_Missing_Positive_Number.cpp">View Solution</a> |
 | Aggressive Cows | <a href="https://www.geeksforgeeks.org/problems/aggressive-cows/1">View Question</a> | <a href="Binary Search/Medium_Hard/Aggressive_Cows.cpp">View Solution</a> |
+| Allocate Minimum Pages | <a href="https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1">View Question</a> | <a href="Binary Search/Medium_Hard/Allocate_Minimum_Pages.cpp">View Solution</a> |
 
 
 

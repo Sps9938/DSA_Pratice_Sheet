@@ -70,3 +70,4 @@
 | Aggressive Cows | Hard | <a href="https://www.geeksforgeeks.org/problems/aggressive-cows/1">View Question</a> | <a href="Binary Search/Medium_Hard/Aggressive_Cows.cpp">View Solution</a> |
 | Allocate Minimum Pages | Hard | <a href="https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1">View Question</a> | <a href="Binary Search/Medium_Hard/Allocate_Minimum_Pages.cpp">View Solution</a> |
 | Split Array Largest Sum | Hard | <a href="https://leetcode.com/problems/split-array-largest-sum/">View Question</a> | <a href="Binary Search/Medium_Hard/Split_Array_Largest_Sum.cpp">View Solution</a> |
+| Minimize Max Distance of Adjacent Gas Stations | Hard | <a href="https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1">View Question</a> | <a href="Binary Search/Medium_Hard/Minimize_Max_Distance_of_Adjacent_Gas_Stations.cpp">View Solution</a> |

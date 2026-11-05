@@ -72,3 +72,4 @@
 | Split Array Largest Sum | Hard | <a href="https://leetcode.com/problems/split-array-largest-sum/">View Question</a> | <a href="Binary Search/Medium_Hard/Split_Array_Largest_Sum.cpp">View Solution</a> |
 | Minimize Max Distance of Adjacent Gas Stations | Hard | <a href="https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1">View Question</a> | <a href="Binary Search/Medium_Hard/Minimize_Max_Distance_of_Adjacent_Gas_Stations.cpp">View Solution</a> |
 | Median of Two Sorted Arrays | Hard | <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">View Question</a> | <a href="Binary Search/Medium_Hard/Median_of_Two_Sorted_Arrays.cpp">View Solution</a> |
+| K-th of Two Sorted Arrays | Hard | <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">View Question</a> | <a href="Binary Search/Medium_Hard/K-th_of_Two_Sorted_Arrays.cpp">View Solution</a> |

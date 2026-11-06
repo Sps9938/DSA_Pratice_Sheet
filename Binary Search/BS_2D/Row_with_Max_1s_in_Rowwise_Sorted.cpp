@@ -1,4 +1,4 @@
-//Optimized Approach
+//Simple Approach StirCase Search Algorithm, Where we start from the top right corner of the matrix and move left or down based on the comparison with the target value. 
 //Time Complexity: O(n+m), Space Complexity: O(1)
 class Solution {
   public:

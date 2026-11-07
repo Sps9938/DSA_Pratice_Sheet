@@ -79,3 +79,4 @@
 |---|---|---|---|
 | Row with Max 1s in Rowwise Sorted | Easy | <a href="https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1">View Question</a> | <a href="Binary Search/BS_2D/K-Row_with_Max_1s_in_Rowwise_Sorted.cpp">View Solution</a> |
 | Search a 2D Matrix | Medium | <a href="https://leetcode.com/problems/search-a-2d-matrix/">View Question</a> | <a href="Binary Search/BS_2D/Search_a_2D_Matrix.cpp">View Solution</a> |
+| Search a 2D Matrix II | Medium | <a href="https://leetcode.com/problems/search-a-2d-matrix-ii/">View Question</a> | <a href="Binary Search/BS_2D/Search_a_2D_Matrix_II.cpp">View Solution</a> |
